@@ -8,10 +8,10 @@ You can download and use the app from *[Songs of the Quran] https://play.google.
 https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png
 
 ## App photo
-![Image 1](https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png) {:height="200px" width="200px"}
 
-![Image 2](https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png =250x250)
+<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png" width="600" height="800">
 
+<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png" width="600" height="800">
 
 
 ### Repository code
