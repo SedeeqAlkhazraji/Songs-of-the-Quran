@@ -7,9 +7,9 @@ You can download and use the app from *[Songs of the Quran] https://play.google.
 
 ## App photo
 
-<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png">
+https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png
 
-<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png">
+https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png
 
 
 ### Repository code
