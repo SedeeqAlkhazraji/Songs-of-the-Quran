@@ -7,10 +7,9 @@ You can download and use the app from *[Songs of the Quran] https://play.google.
 
 ## App photo
 
-https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png
+![](https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png)
 
-https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png
-
+![](https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png)
 
 ### Repository code
 You can downlaod this repository and learn how this app programmed in Android Studio. If you want to create similer apps, please create something for good deeds :)
