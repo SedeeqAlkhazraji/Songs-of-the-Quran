@@ -9,9 +9,9 @@ https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screensho
 
 ## App photo
 
-<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png" width="480" height="600">
+<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png">
 
-<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png" width="480" height="600">
+<img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot2.png">
 
 
 ### Repository code
