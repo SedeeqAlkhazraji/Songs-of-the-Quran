@@ -5,8 +5,6 @@ This repository containes the source code for the app "Songs of the Quran".
 You can download and use the app from *[Songs of the Quran] https://play.google.com/store/apps/details?id=sedeeqalkhazraji.blogspot.com.anasheedquran1
 
 
-https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png
-
 ## App photo
 
 <img src="https://github.com/SedeeqAlkhazraji/Songs-of-the-Quran/blob/master/app/Screenshot1.png">
