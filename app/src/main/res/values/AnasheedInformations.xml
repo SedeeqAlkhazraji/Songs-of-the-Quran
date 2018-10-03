@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="SongID">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+
+    </integer-array>
+
+    <string-array name="IntroSongName">
+        <item>رتل معي </item>
+        <item>أتينا حافظ القرآن </item>
+        <item>هذا القرآن يوحدنا </item>
+        <item>يا حامل القرآن </item>
+        <item>إقرأ أخيّا </item>
+        <item>أول حفظــي </item>
+        <item>تغـنّ بالقــرآن </item>
+        <item>جلال حروفك المثلى </item>
+        <item>باركوا له ختم القرآن </item>
+        <item>رفيق العمر </item>
+        <item>رتل معي 2</item>
+        <item>القُـرْآن </item>
+        <item>آيـات القـرآن </item>
+        <item>دآر الذكر  </item>
+        <item>أمة القرآن </item>
+        <item>الخاتمين والخاتمات </item>
+        <item>إخوتي يا من حفظتم نص دستور السماء </item>
+        <item>رتل </item>
+        <item>شيد بقرآني وإيماني. فرقة حداء ونداء</item>
+        <item>في قــلبــي </item>
+        <item>قرآني نبض حياتي </item>
+        <item>كتاب الله </item>
+        <item>قآرئ القرآن </item>
+        <item>يــــا منـــزل الآيـــــات  علي العنزي</item>
+        <item>مدرسة القرآن </item>
+        <item>كتاب الله في قلبي</item>
+        <item>حافظ القرآن </item>
+        <item>يعلو و لا يعلى عليه </item>
+        <item>مع القرآن </item>
+        <item>هي الحلقات </item>
+        <item>يا فتى القرآن </item>
+        <item>نشيد يا حامل القران طاب مساكا </item>
+        <item>اجل يا امة القران </item>
+        <item>أيــهـــا الـقـمـــري  علي العنزي</item>
+        <item>نبـــراس الـــوجـــود </item>
+        <item>خذ بيمينك القرآن </item>
+        <item>اقرأ كتاب الله</item>
+        <item>اهديتنا القران يعزز الايمان </item>
+        <item>قرآننا </item>
+        <item>اقرأ وارق </item>
+        <item>من القرآن و السنة </item>
+        <item>في كتاب الله </item>
+        <item>شهر القران </item>
+        <item>إقـــرأ  </item>
+        <item>رتل وزد من منهل القرآن </item>
+        <item>القرآن  </item>
+        <item>انشودة ما اسعد الحفاظ </item>
+        <item>العارم </item>
+        <item>بالقرآن نسمو </item>
+        <item>رفيق العمر </item>
+
+
+    </string-array>
+    <string-array name="SignerName">
+        <item>العفاسي</item>
+        <item>سمير البشيري</item>
+        <item>أحمد بوخاطر</item>
+        <item>أحمد الهاجري </item>
+        <item>أحمد بوخاطر</item>
+        <item> أبو عبدالملك</item>
+        <item>محمد العُمري</item>
+        <item>احمد الجربي</item>
+        <item>فوزي سعيد</item>
+        <item>زياد و إبراهيم الفواز</item>
+        <item>العفاسي</item>
+        <item>مُحَمّـد المَـازٍم</item>
+        <item>مجموعة أطفال </item>
+        <item>مصعب المقرن </item>
+        <item>أسامة الصافي</item>
+        <item>سلمان الملّا</item>
+        <item>ربيع حافظ</item>
+        <item>شريط تباريح</item>
+        <item></item>
+        <item>علي العنزي </item>
+        <item>سلمان الملّا</item>
+        <item>خالد المفلح</item>
+        <item>أبو  عابد</item>
+        <item></item>
+        <item>أبوعلي و أبو عبدالملك</item>
+        <item></item>
+        <item>محمد الجلعود</item>
+        <item>للمنشد علي العنزي</item>
+        <item>مصعب المقرن</item>
+        <item>محمّد الحسيان</item>
+        <item>محمود السّيد </item>
+        <item>عبدالرحمن الحسن</item>
+        <item>لفرقة نداء وحداء </item>
+        <item></item>
+        <item>عبدالرحمن العوضي </item>
+        <item>شريط هداة البشر</item>
+        <item></item>
+        <item>أحمد المنصوري</item>
+        <item>الحديب و السعيد</item>
+        <item>ضحى الهندي</item>
+        <item>شريط صدى الإسلام </item>
+        <item>بندر السبيعي</item>
+        <item>عمر الضحيان </item>
+        <item> أبو مهند </item>
+        <item>أبو علي </item>
+        <item>علي العنزي </item>
+        <item>عبد الرحمن الكندري</item>
+        <item>العفاسي </item>
+        <item>عيس القرني</item>
+        <item>محمد خاطر</item>
+
+    </string-array>
+
+    <string-array name="SongPath">
+        <item>https://archive.org/download/QuranAnasheed_201501/1.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/2.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/3.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/4.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/5.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/6.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/7.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/8.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/9.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/10.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/11.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/12.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/13.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/14.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/15.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/16.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/17.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/18.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/19.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/20.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/21.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/22.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/23.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/24.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/25.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/26.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/27.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/28.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/29.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/30.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/31.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/32.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/33.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/34.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/35.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/36.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/37.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/38.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/39.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/40.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/41.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/42.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/43.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/44.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/45.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/46.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/47.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/48.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/49.mp3</item>
+        <item>https://archive.org/download/QuranAnasheed_201501/50.mp3</item>
+
+    </string-array>
+
+</resources>

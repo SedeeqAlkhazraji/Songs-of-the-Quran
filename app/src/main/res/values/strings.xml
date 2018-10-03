@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Anasheed Al-Quran!</string>
+    <string name="app_name">أناشيد القران الكريم</string>
+    <string name="buy_it">تحميل</string>
+    <string name="MyMessage">تمهن</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3314044960938046/3101840617</string>
+
+
+
+
+    <string name="InternetTitle">No network available!</string>
+    <string name="InternetMessage">There is no internet connection. Please, check your internet connection</string>
+    <string name="shareMessage">اختر احد التطبيقات</string>
+    <string name="shareRecommand">"\nجرب هذا التطبيق، متاكد سيعجبك:\n\n"</string>
+
+
+</resources>
+
+

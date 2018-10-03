@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#546b76</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#3e5560</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">#FF4081</item>
+        <!-- Blue -->
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+
+    <style name="myRecyclerViewStyle">
+        <!-- NOTE: clipChildren should be false on API level 11 or later -->
+        <item name="android:clipChildren">false</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+
+
+
+    <string name="icon_FA">&#xf164;</string>
+    <string name="icon_Share">&#xf14d;</string>
+
+
+</resources>
